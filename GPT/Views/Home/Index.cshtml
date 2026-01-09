@@ -1,0 +1,138 @@
+﻿@model GPT.Models.Question
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<style>
+    .quick-choices {
+        margin-top: 20px; /* Adjusts top margin for more space */
+        text-align: center;
+    }
+
+    .quick-choice {
+        margin: 5px; /* Adjusts margin to separate the buttons */
+    }
+
+    /* Center the buttons and add margin */
+    .centered-buttons {
+        text-align: center;
+        margin-top: 20px; /* Add margin to move the buttons down */
+    }
+</style>
+
+<div class="text-center">
+    <h1 class="display-4">Anaconda GPT🤖</h1>
+    <p>Ask me anything Python-Related</p>
+</div>
+
+@using (Html.BeginForm("ChatGPT", "Home", FormMethod.Post))
+{
+    <div class="form-group">
+        @Html.LabelFor(m => m.message)
+        @Html.TextBoxFor(m => m.message, new { @class = "form-control", id = "message" })
+        @Html.ValidationMessageFor(m => m.message)
+    </div>
+    <div class="centered-buttons">
+        <button id="generateButton" type="button" class="btn btn-primary">Generate response</button>
+        <button type="button" id="clearButton" class="btn btn-outline-success">Clear</button>
+    </div>
+    <div class="quick-choices">
+        <div class="button-grid">
+            <button type="button" class="btn btn-outline-info quick-choice square-button">
+                <span class="bold-text">Generate Python code </span><br>to display the first ten letters of the alphabet
+            </button>
+            <button type="button" class="btn btn-outline-info quick-choice square-button">
+                <span class="bold-text">Generate ideas </span><br>for beginner Python projects
+            </button>
+            <button type="button" class="btn btn-outline-info quick-choice square-button">
+                <span class="bold-text">Teach me </span><br>about how lists work in Python
+            </button>
+            <button type="button" class="btn btn-outline-info quick-choice square-button">
+                <span class="bold-text">Generate quiz questions </span><br>centered around basic Python programming concepts
+            </button>
+        </div>
+    </div>
+}
+
+<style>
+    .bold-text {
+        font-weight: bold;
+        color: black;
+    }
+
+    .quick-choice {
+        text-align: left;
+        white-space: normal; /* Allow text to wrap to the next line */
+    }
+
+    .square-button {
+        width: 100%; /* Set the width to 100% to stretch the buttons horizontally */
+        margin-bottom: 3px; /* Reduce the spacing between buttons */
+    }
+
+
+    .button-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr); /* Adjust the number of columns as needed */
+        grid-gap: 10px; /* Equal spacing between rows and columns */
+    }
+</style>
+
+<div style="margin-top:50px;">
+    <!-- Adjusts top margin here as well -->
+    <h1>Output</h1>
+    <p id="outputArea">Response: </p>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    function generateGptResponse() {
+        var userMessage = $("#message").val();
+        $("#generateButton").prop("disabled", true);
+
+        $.ajax({
+            url: "@Url.Action("ChatGPT", "Home")",
+            type: "POST",
+            data: { message: userMessage },
+            dataType: "text",
+            success: function (result) {
+                const paragraphs = result.split('\n\n');
+
+                let formattedResponse = '';
+                paragraphs.forEach(paragraph => {
+                    if (paragraph.startsWith('```')) {
+                        const codeLines = paragraph.split('\n');
+                        formattedResponse += codeLines.map(line => `<pre>${line}</pre>`).join('\n');
+                    } else {
+                        formattedResponse += `<p>${paragraph}</p>`;
+                    }
+                });
+
+                $("#outputArea").html("Response: " + formattedResponse);
+                $("#message").val("").focus(); // Added .focus() to set the focus back to the input field
+                $("#generateButton").prop("disabled", false);
+            },
+            error: function (xhr, status, error) {
+                alert("Result: " + status + " " + error + " " + xhr.status + " " + xhr.statusText);
+                $("#generateButton").prop("disabled", false);
+            }
+        });
+    }
+
+    function clearOutput() {
+        $("#message").val("");
+    }
+
+    $(".quick-choice").click(function () {
+        var choiceText = $(this).text();
+        $("#message").val(choiceText);
+
+        // Automatically generate the response when a quick-choice button is clicked
+        generateGptResponse();
+    });
+
+    $(document).ready(function () {
+        $("#generateButton").click(generateGptResponse);
+        $("#clearButton").click(clearOutput);
+    });
+</script>
