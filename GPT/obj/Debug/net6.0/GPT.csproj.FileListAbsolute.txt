@@ -1,0 +1,140 @@
+C:\Users\Kimaera Surajbali\Source\Repos\GPT\GPT\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Kimaera Surajbali\Source\Repos\GPT\GPT\bin\Debug\net6.0\appsettings.json
+C:\Users\Kimaera Surajbali\Source\Repos\GPT\GPT\bin\Debug\net6.0\GPT.staticwebassets.runtime.json
+C:\Users\Kimaera Surajbali\Source\Repos\GPT\GPT\bin\Debug\net6.0\GPT.exe
+C:\Users\Kimaera Surajbali\Source\Repos\GPT\GPT\bin\Debug\net6.0\GPT.deps.json
+C:\Users\Kimaera Surajbali\Source\Repos\GPT\GPT\bin\Debug\net6.0\GPT.runtimeconfig.json
+C:\Users\Kimaera Surajbali\Source\Repos\GPT\GPT\bin\Debug\net6.0\GPT.dll
+C:\Users\Kimaera Surajbali\Source\Repos\GPT\GPT\bin\Debug\net6.0\GPT.pdb
+C:\Users\Kimaera Surajbali\Source\Repos\GPT\GPT\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kimaera Surajbali\Source\Repos\GPT\GPT\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Kimaera Surajbali\Source\Repos\GPT\GPT\bin\Debug\net6.0\OpenAI_API.dll
+C:\Users\Kimaera Surajbali\Source\Repos\GPT\GPT\obj\Debug\net6.0\GPT.csproj.AssemblyReference.cache
+C:\Users\Kimaera Surajbali\Source\Repos\GPT\GPT\obj\Debug\net6.0\GPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kimaera Surajbali\Source\Repos\GPT\GPT\obj\Debug\net6.0\GPT.AssemblyInfoInputs.cache
+C:\Users\Kimaera Surajbali\Source\Repos\GPT\GPT\obj\Debug\net6.0\GPT.AssemblyInfo.cs
+C:\Users\Kimaera Surajbali\Source\Repos\GPT\GPT\obj\Debug\net6.0\GPT.csproj.CoreCompileInputs.cache
+C:\Users\Kimaera Surajbali\Source\Repos\GPT\GPT\obj\Debug\net6.0\GPT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kimaera Surajbali\Source\Repos\GPT\GPT\obj\Debug\net6.0\GPT.RazorAssemblyInfo.cache
+C:\Users\Kimaera Surajbali\Source\Repos\GPT\GPT\obj\Debug\net6.0\GPT.RazorAssemblyInfo.cs
+C:\Users\Kimaera Surajbali\Source\Repos\GPT\GPT\obj\Debug\net6.0\staticwebassets\msbuild.GPT.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Kimaera Surajbali\Source\Repos\GPT\GPT\obj\Debug\net6.0\staticwebassets\msbuild.build.GPT.props
+C:\Users\Kimaera Surajbali\Source\Repos\GPT\GPT\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GPT.props
+C:\Users\Kimaera Surajbali\Source\Repos\GPT\GPT\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GPT.props
+C:\Users\Kimaera Surajbali\Source\Repos\GPT\GPT\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Kimaera Surajbali\Source\Repos\GPT\GPT\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Kimaera Surajbali\Source\Repos\GPT\GPT\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Kimaera Surajbali\Source\Repos\GPT\GPT\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Kimaera Surajbali\Source\Repos\GPT\GPT\obj\Debug\net6.0\scopedcss\bundle\GPT.styles.css
+C:\Users\Kimaera Surajbali\Source\Repos\GPT\GPT\obj\Debug\net6.0\scopedcss\projectbundle\GPT.bundle.scp.css
+C:\Users\Kimaera Surajbali\Source\Repos\GPT\GPT\obj\Debug\net6.0\GPT.csproj.CopyComplete
+C:\Users\Kimaera Surajbali\Source\Repos\GPT\GPT\obj\Debug\net6.0\GPT.dll
+C:\Users\Kimaera Surajbali\Source\Repos\GPT\GPT\obj\Debug\net6.0\refint\GPT.dll
+C:\Users\Kimaera Surajbali\Source\Repos\GPT\GPT\obj\Debug\net6.0\GPT.pdb
+C:\Users\Kimaera Surajbali\Source\Repos\GPT\GPT\obj\Debug\net6.0\GPT.genruntimeconfig.cache
+C:\Users\Kimaera Surajbali\Source\Repos\GPT\GPT\obj\Debug\net6.0\ref\GPT.dll
+C:\Users\Reikaylan\Desktop\UKZN LEARN 2023\Semester_2\COMP_301\@Project Files\GPT\GPT\GPT\obj\Debug\net6.0\GPT.dll
+C:\Users\Reikaylan\Desktop\UKZN LEARN 2023\Semester_2\COMP_301\@Project Files\GPT\GPT\GPT\obj\Debug\net6.0\refint\GPT.dll
+C:\Users\Reikaylan\Desktop\UKZN LEARN 2023\Semester_2\COMP_301\@Project Files\GPT\GPT\GPT\obj\Debug\net6.0\GPT.pdb
+C:\Users\Reikaylan\Desktop\UKZN LEARN 2023\Semester_2\COMP_301\@Project Files\GPT\GPT\GPT\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Reikaylan\Desktop\UKZN LEARN 2023\Semester_2\COMP_301\@Project Files\GPT\GPT\GPT\bin\Debug\net6.0\appsettings.json
+C:\Users\Reikaylan\Desktop\UKZN LEARN 2023\Semester_2\COMP_301\@Project Files\GPT\GPT\GPT\bin\Debug\net6.0\GPT.staticwebassets.runtime.json
+C:\Users\Reikaylan\Desktop\UKZN LEARN 2023\Semester_2\COMP_301\@Project Files\GPT\GPT\GPT\bin\Debug\net6.0\GPT.exe
+C:\Users\Reikaylan\Desktop\UKZN LEARN 2023\Semester_2\COMP_301\@Project Files\GPT\GPT\GPT\bin\Debug\net6.0\GPT.deps.json
+C:\Users\Reikaylan\Desktop\UKZN LEARN 2023\Semester_2\COMP_301\@Project Files\GPT\GPT\GPT\bin\Debug\net6.0\GPT.runtimeconfig.json
+C:\Users\Reikaylan\Desktop\UKZN LEARN 2023\Semester_2\COMP_301\@Project Files\GPT\GPT\GPT\bin\Debug\net6.0\GPT.dll
+C:\Users\Reikaylan\Desktop\UKZN LEARN 2023\Semester_2\COMP_301\@Project Files\GPT\GPT\GPT\bin\Debug\net6.0\GPT.pdb
+C:\Users\Reikaylan\Desktop\UKZN LEARN 2023\Semester_2\COMP_301\@Project Files\GPT\GPT\GPT\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Reikaylan\Desktop\UKZN LEARN 2023\Semester_2\COMP_301\@Project Files\GPT\GPT\GPT\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Reikaylan\Desktop\UKZN LEARN 2023\Semester_2\COMP_301\@Project Files\GPT\GPT\GPT\bin\Debug\net6.0\OpenAI_API.dll
+C:\Users\Reikaylan\Desktop\UKZN LEARN 2023\Semester_2\COMP_301\@Project Files\GPT\GPT\GPT\obj\Debug\net6.0\GPT.csproj.AssemblyReference.cache
+C:\Users\Reikaylan\Desktop\UKZN LEARN 2023\Semester_2\COMP_301\@Project Files\GPT\GPT\GPT\obj\Debug\net6.0\GPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reikaylan\Desktop\UKZN LEARN 2023\Semester_2\COMP_301\@Project Files\GPT\GPT\GPT\obj\Debug\net6.0\GPT.AssemblyInfoInputs.cache
+C:\Users\Reikaylan\Desktop\UKZN LEARN 2023\Semester_2\COMP_301\@Project Files\GPT\GPT\GPT\obj\Debug\net6.0\GPT.AssemblyInfo.cs
+C:\Users\Reikaylan\Desktop\UKZN LEARN 2023\Semester_2\COMP_301\@Project Files\GPT\GPT\GPT\obj\Debug\net6.0\GPT.csproj.CoreCompileInputs.cache
+C:\Users\Reikaylan\Desktop\UKZN LEARN 2023\Semester_2\COMP_301\@Project Files\GPT\GPT\GPT\obj\Debug\net6.0\GPT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Reikaylan\Desktop\UKZN LEARN 2023\Semester_2\COMP_301\@Project Files\GPT\GPT\GPT\obj\Debug\net6.0\GPT.RazorAssemblyInfo.cache
+C:\Users\Reikaylan\Desktop\UKZN LEARN 2023\Semester_2\COMP_301\@Project Files\GPT\GPT\GPT\obj\Debug\net6.0\GPT.RazorAssemblyInfo.cs
+C:\Users\Reikaylan\Desktop\UKZN LEARN 2023\Semester_2\COMP_301\@Project Files\GPT\GPT\GPT\obj\Debug\net6.0\staticwebassets\msbuild.GPT.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Reikaylan\Desktop\UKZN LEARN 2023\Semester_2\COMP_301\@Project Files\GPT\GPT\GPT\obj\Debug\net6.0\staticwebassets\msbuild.build.GPT.props
+C:\Users\Reikaylan\Desktop\UKZN LEARN 2023\Semester_2\COMP_301\@Project Files\GPT\GPT\GPT\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GPT.props
+C:\Users\Reikaylan\Desktop\UKZN LEARN 2023\Semester_2\COMP_301\@Project Files\GPT\GPT\GPT\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GPT.props
+C:\Users\Reikaylan\Desktop\UKZN LEARN 2023\Semester_2\COMP_301\@Project Files\GPT\GPT\GPT\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Reikaylan\Desktop\UKZN LEARN 2023\Semester_2\COMP_301\@Project Files\GPT\GPT\GPT\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Reikaylan\Desktop\UKZN LEARN 2023\Semester_2\COMP_301\@Project Files\GPT\GPT\GPT\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Reikaylan\Desktop\UKZN LEARN 2023\Semester_2\COMP_301\@Project Files\GPT\GPT\GPT\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Reikaylan\Desktop\UKZN LEARN 2023\Semester_2\COMP_301\@Project Files\GPT\GPT\GPT\obj\Debug\net6.0\scopedcss\bundle\GPT.styles.css
+C:\Users\Reikaylan\Desktop\UKZN LEARN 2023\Semester_2\COMP_301\@Project Files\GPT\GPT\GPT\obj\Debug\net6.0\scopedcss\projectbundle\GPT.bundle.scp.css
+C:\Users\Reikaylan\Desktop\UKZN LEARN 2023\Semester_2\COMP_301\@Project Files\GPT\GPT\GPT\obj\Debug\net6.0\GPT.csproj.CopyComplete
+C:\Users\Reikaylan\Desktop\UKZN LEARN 2023\Semester_2\COMP_301\@Project Files\GPT\GPT\GPT\obj\Debug\net6.0\GPT.genruntimeconfig.cache
+C:\Users\Reikaylan\Desktop\UKZN LEARN 2023\Semester_2\COMP_301\@Project Files\GPT\GPT\GPT\obj\Debug\net6.0\ref\GPT.dll
+C:\Users\shmee\Downloads\GPT_Updated\GPT\GPT\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\shmee\Downloads\GPT_Updated\GPT\GPT\bin\Debug\net6.0\appsettings.json
+C:\Users\shmee\Downloads\GPT_Updated\GPT\GPT\bin\Debug\net6.0\GPT.staticwebassets.runtime.json
+C:\Users\shmee\Downloads\GPT_Updated\GPT\GPT\bin\Debug\net6.0\GPT.exe
+C:\Users\shmee\Downloads\GPT_Updated\GPT\GPT\bin\Debug\net6.0\GPT.deps.json
+C:\Users\shmee\Downloads\GPT_Updated\GPT\GPT\bin\Debug\net6.0\GPT.runtimeconfig.json
+C:\Users\shmee\Downloads\GPT_Updated\GPT\GPT\bin\Debug\net6.0\GPT.dll
+C:\Users\shmee\Downloads\GPT_Updated\GPT\GPT\bin\Debug\net6.0\GPT.pdb
+C:\Users\shmee\Downloads\GPT_Updated\GPT\GPT\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shmee\Downloads\GPT_Updated\GPT\GPT\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\shmee\Downloads\GPT_Updated\GPT\GPT\bin\Debug\net6.0\OpenAI_API.dll
+C:\Users\shmee\Downloads\GPT_Updated\GPT\GPT\obj\Debug\net6.0\GPT.csproj.AssemblyReference.cache
+C:\Users\shmee\Downloads\GPT_Updated\GPT\GPT\obj\Debug\net6.0\GPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shmee\Downloads\GPT_Updated\GPT\GPT\obj\Debug\net6.0\GPT.AssemblyInfoInputs.cache
+C:\Users\shmee\Downloads\GPT_Updated\GPT\GPT\obj\Debug\net6.0\GPT.AssemblyInfo.cs
+C:\Users\shmee\Downloads\GPT_Updated\GPT\GPT\obj\Debug\net6.0\GPT.csproj.CoreCompileInputs.cache
+C:\Users\shmee\Downloads\GPT_Updated\GPT\GPT\obj\Debug\net6.0\GPT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shmee\Downloads\GPT_Updated\GPT\GPT\obj\Debug\net6.0\GPT.RazorAssemblyInfo.cache
+C:\Users\shmee\Downloads\GPT_Updated\GPT\GPT\obj\Debug\net6.0\GPT.RazorAssemblyInfo.cs
+C:\Users\shmee\Downloads\GPT_Updated\GPT\GPT\obj\Debug\net6.0\staticwebassets\msbuild.GPT.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\shmee\Downloads\GPT_Updated\GPT\GPT\obj\Debug\net6.0\staticwebassets\msbuild.build.GPT.props
+C:\Users\shmee\Downloads\GPT_Updated\GPT\GPT\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GPT.props
+C:\Users\shmee\Downloads\GPT_Updated\GPT\GPT\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GPT.props
+C:\Users\shmee\Downloads\GPT_Updated\GPT\GPT\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\shmee\Downloads\GPT_Updated\GPT\GPT\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\shmee\Downloads\GPT_Updated\GPT\GPT\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\shmee\Downloads\GPT_Updated\GPT\GPT\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\shmee\Downloads\GPT_Updated\GPT\GPT\obj\Debug\net6.0\scopedcss\bundle\GPT.styles.css
+C:\Users\shmee\Downloads\GPT_Updated\GPT\GPT\obj\Debug\net6.0\scopedcss\projectbundle\GPT.bundle.scp.css
+C:\Users\shmee\Downloads\GPT_Updated\GPT\GPT\obj\Debug\net6.0\GPT.csproj.CopyComplete
+C:\Users\shmee\Downloads\GPT_Updated\GPT\GPT\obj\Debug\net6.0\GPT.dll
+C:\Users\shmee\Downloads\GPT_Updated\GPT\GPT\obj\Debug\net6.0\refint\GPT.dll
+C:\Users\shmee\Downloads\GPT_Updated\GPT\GPT\obj\Debug\net6.0\GPT.pdb
+C:\Users\shmee\Downloads\GPT_Updated\GPT\GPT\obj\Debug\net6.0\GPT.genruntimeconfig.cache
+C:\Users\shmee\Downloads\GPT_Updated\GPT\GPT\obj\Debug\net6.0\ref\GPT.dll
+C:\Users\Reikaylan\Downloads\GPT_UPDATED_UI\GPT_Updated\GPT\GPT\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Reikaylan\Downloads\GPT_UPDATED_UI\GPT_Updated\GPT\GPT\bin\Debug\net6.0\appsettings.json
+C:\Users\Reikaylan\Downloads\GPT_UPDATED_UI\GPT_Updated\GPT\GPT\bin\Debug\net6.0\GPT.staticwebassets.runtime.json
+C:\Users\Reikaylan\Downloads\GPT_UPDATED_UI\GPT_Updated\GPT\GPT\bin\Debug\net6.0\GPT.exe
+C:\Users\Reikaylan\Downloads\GPT_UPDATED_UI\GPT_Updated\GPT\GPT\bin\Debug\net6.0\GPT.deps.json
+C:\Users\Reikaylan\Downloads\GPT_UPDATED_UI\GPT_Updated\GPT\GPT\bin\Debug\net6.0\GPT.runtimeconfig.json
+C:\Users\Reikaylan\Downloads\GPT_UPDATED_UI\GPT_Updated\GPT\GPT\bin\Debug\net6.0\GPT.dll
+C:\Users\Reikaylan\Downloads\GPT_UPDATED_UI\GPT_Updated\GPT\GPT\bin\Debug\net6.0\GPT.pdb
+C:\Users\Reikaylan\Downloads\GPT_UPDATED_UI\GPT_Updated\GPT\GPT\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Reikaylan\Downloads\GPT_UPDATED_UI\GPT_Updated\GPT\GPT\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Reikaylan\Downloads\GPT_UPDATED_UI\GPT_Updated\GPT\GPT\bin\Debug\net6.0\OpenAI_API.dll
+C:\Users\Reikaylan\Downloads\GPT_UPDATED_UI\GPT_Updated\GPT\GPT\obj\Debug\net6.0\GPT.csproj.AssemblyReference.cache
+C:\Users\Reikaylan\Downloads\GPT_UPDATED_UI\GPT_Updated\GPT\GPT\obj\Debug\net6.0\GPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reikaylan\Downloads\GPT_UPDATED_UI\GPT_Updated\GPT\GPT\obj\Debug\net6.0\GPT.AssemblyInfoInputs.cache
+C:\Users\Reikaylan\Downloads\GPT_UPDATED_UI\GPT_Updated\GPT\GPT\obj\Debug\net6.0\GPT.AssemblyInfo.cs
+C:\Users\Reikaylan\Downloads\GPT_UPDATED_UI\GPT_Updated\GPT\GPT\obj\Debug\net6.0\GPT.csproj.CoreCompileInputs.cache
+C:\Users\Reikaylan\Downloads\GPT_UPDATED_UI\GPT_Updated\GPT\GPT\obj\Debug\net6.0\GPT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Reikaylan\Downloads\GPT_UPDATED_UI\GPT_Updated\GPT\GPT\obj\Debug\net6.0\GPT.RazorAssemblyInfo.cache
+C:\Users\Reikaylan\Downloads\GPT_UPDATED_UI\GPT_Updated\GPT\GPT\obj\Debug\net6.0\GPT.RazorAssemblyInfo.cs
+C:\Users\Reikaylan\Downloads\GPT_UPDATED_UI\GPT_Updated\GPT\GPT\obj\Debug\net6.0\staticwebassets\msbuild.GPT.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Reikaylan\Downloads\GPT_UPDATED_UI\GPT_Updated\GPT\GPT\obj\Debug\net6.0\staticwebassets\msbuild.build.GPT.props
+C:\Users\Reikaylan\Downloads\GPT_UPDATED_UI\GPT_Updated\GPT\GPT\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GPT.props
+C:\Users\Reikaylan\Downloads\GPT_UPDATED_UI\GPT_Updated\GPT\GPT\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GPT.props
+C:\Users\Reikaylan\Downloads\GPT_UPDATED_UI\GPT_Updated\GPT\GPT\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Reikaylan\Downloads\GPT_UPDATED_UI\GPT_Updated\GPT\GPT\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Reikaylan\Downloads\GPT_UPDATED_UI\GPT_Updated\GPT\GPT\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Reikaylan\Downloads\GPT_UPDATED_UI\GPT_Updated\GPT\GPT\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Reikaylan\Downloads\GPT_UPDATED_UI\GPT_Updated\GPT\GPT\obj\Debug\net6.0\scopedcss\bundle\GPT.styles.css
+C:\Users\Reikaylan\Downloads\GPT_UPDATED_UI\GPT_Updated\GPT\GPT\obj\Debug\net6.0\scopedcss\projectbundle\GPT.bundle.scp.css
+C:\Users\Reikaylan\Downloads\GPT_UPDATED_UI\GPT_Updated\GPT\GPT\obj\Debug\net6.0\GPT.csproj.CopyComplete
+C:\Users\Reikaylan\Downloads\GPT_UPDATED_UI\GPT_Updated\GPT\GPT\obj\Debug\net6.0\GPT.dll
+C:\Users\Reikaylan\Downloads\GPT_UPDATED_UI\GPT_Updated\GPT\GPT\obj\Debug\net6.0\refint\GPT.dll
+C:\Users\Reikaylan\Downloads\GPT_UPDATED_UI\GPT_Updated\GPT\GPT\obj\Debug\net6.0\GPT.pdb
+C:\Users\Reikaylan\Downloads\GPT_UPDATED_UI\GPT_Updated\GPT\GPT\obj\Debug\net6.0\GPT.genruntimeconfig.cache
+C:\Users\Reikaylan\Downloads\GPT_UPDATED_UI\GPT_Updated\GPT\GPT\obj\Debug\net6.0\ref\GPT.dll
